@@ -1,0 +1,42 @@
+%\DeclareMathOperator{}{}
+%\newcommand{}{}
+
+\DeclareMathOperator{\Aff}{Aff}
+\newcommand{\tAff}{\widetilde{\Aff}}
+
+\DeclareMathOperator{\St}{St}
+
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\T}{\mathbb{T}}
+\renewcommand{\C}{\mathbb{C}}
+\newcommand{\Z}{\mathbb{Z}}
+
+\newcommand{\FG}{\F G}
+
+
+\newcounter{myexample}
+\newcommand{\Ex}{%
+\stepcounter{myexample}\textbf{Пример \arabic{myexample}. }%
+}
+
+\newtheorem{mylemma}{Лемма}
+\newcommand{\Lm}[1]{%
+\begin{mylemma}
+#1
+\end{mylemma}
+}
+
+\newcounter{mydefinition}
+\newcommand{\Df}{%
+\stepcounter{mydefinition}\textbf{Определение \arabic{mydefinition}. }%
+}
+
+\newcounter{mynote}
+\newcommand{\Nt}{%
+\stepcounter{mynote}\textbf{Замечание \arabic{mynote}. }%
+}
+
+\newcommand{\Pf}{%
+\textit{Док-во. }%
+}
+
