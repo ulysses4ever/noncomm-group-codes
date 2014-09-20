@@ -1,7 +1,7 @@
 toHtml.sh
 *.html
 *tuned*
-Zimmerman.pdf
+*.pdf
 *~
 *.tex
 *.aux
