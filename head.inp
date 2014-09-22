@@ -40,3 +40,6 @@
 \textit{Док-во. }%
 }
 
+\newcommand{\MyId}{%
+#
+}
