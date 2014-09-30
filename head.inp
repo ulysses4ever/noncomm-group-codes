@@ -5,6 +5,8 @@
 \newcommand{\tAff}{\widetilde{\Aff}}
 
 \DeclareMathOperator{\St}{St}
+\DeclareMathOperator{\RM}{RM}
+\DeclareMathOperator{\End}{End}
 
 \newcommand{\F}{\mathbb{F}}
 \newcommand{\T}{\mathbb{T}}
@@ -37,9 +39,16 @@
 }
 
 \newcommand{\Pf}{%
+\vspace{-.4cm}
 \textit{Док-во. }%
 }
 
-\newcommand{\MyId}{%
-#
+\newcommand{\MyId}[1]{%
+#1
+}
+
+\newcommand{\Mline}[1]{%
+\begin{multline*}
+#1
+\end{multline*}
 }
