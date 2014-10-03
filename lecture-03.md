@@ -32,9 +32,9 @@ $|\Delta_n| = 2^n$. Рассмотрим в $\F_2\Delta_n$ множество
 $t$ и обозначать $\RM_t$.
 
 1. $\RM_n = \langle B_n\rangle  \neq O$.
-2. $\RM_0 \supseteq \RM_1 \supseteq ... \supseteq \RM_N$.
+2. $\RM_0 \supseteq \RM_1 \supseteq ... \supseteq \RM_n$.
 
-Напомним, что если $A_0$ это идеал адгебры $A$, тогда
+Напомним, что если $A_0$ это идеал алгебры $A$, тогда
 $A_0^t = \langle a_1 ... a_t \mid a_i \in A_0\rangle $ это тоже идеал.
 
 \Lm{Рассмотрим $\RM_t \subset \F_2\Delta$.
