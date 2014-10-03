@@ -17,8 +17,8 @@ $g$. Или поправить это утверждение.
 
 ## Коды Рида-Малера на основе подхода Бермана
 
-Напомним, что $\Delta_n = \langle g_1\rangle  * ... * \langle g_n\rangle $, где $g_i$ это элементы порядка 2.
-$|\Delta_n| = 2^n$. Рассмотрим в $\F_2\Delta_2$ множество
+Напомним, что $\Delta_n = \langle g_1\rangle  \oplus ... \oplus \langle g_n\rangle $, где $g_i$ это элементы порядка 2.
+$|\Delta_n| = 2^n$. Рассмотрим в $\F_2\Delta_n$ множество
 \Mline{
     B_t = \left \{ \vphantom{\sum_{i=1}^n\alpha_i}
 			(g_1 - e)^{\alpha_1} \ldots (g_n - e)^{\alpha_n}
