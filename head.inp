@@ -9,10 +9,11 @@
 \DeclareMathOperator{\End}{End}
 \DeclareMathOperator{\Eev}{ev}
 
-\newcommand{\F}{\mathbb{F}}
-\newcommand{\T}{\mathbb{T}}
-\renewcommand{\C}{\mathbb{C}}
-\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\F}{\ensuremath{\mathbb{F}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+\newcommand{\T}{\ensuremath{\mathbb{T}}}
+\renewcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
 
 \newcommand{\FG}{\F G}
 
