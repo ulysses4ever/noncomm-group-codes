@@ -8,6 +8,8 @@
 \DeclareMathOperator{\RM}{RM}
 \DeclareMathOperator{\End}{End}
 \DeclareMathOperator{\Eev}{ev}
+\DeclareMathOperator{\Aut}{Aut}
+\DeclareMathOperator{\GL}{GL}
 
 \newcommand{\F}{\ensuremath{\mathbb{F}}}
 \newcommand{\Q}{\ensuremath{\mathbb{Q}}}
