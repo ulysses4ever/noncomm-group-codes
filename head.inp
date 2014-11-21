@@ -11,6 +11,7 @@
 \DeclareMathOperator{\Aut}{Aut}
 \DeclareMathOperator{\GL}{GL}
 \DeclareMathOperator{\ev}{ev}
+\DeclareMathOperator{\Rad}{Rad}
 
 \newcommand{\F}{\ensuremath{\mathbb{F}}}
 \newcommand{\Q}{\ensuremath{\mathbb{Q}}}
@@ -58,7 +59,7 @@
 
 
 \newcommand{\Pf}{%
-\vspace{-.4cm}
+\vspace{-.2cm}
 \textit{Док-во. }%
 }
 
